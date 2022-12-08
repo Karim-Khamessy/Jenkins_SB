@@ -1,4 +1,4 @@
 mvn clean verify sonar:sonar \
   -Dsonar.projectKey=spring-project \
-  -Dsonar.host.url=http://192.168.122.144:9000 \
-  -Dsonar.login=sqp_57aeff21d5ada3916b2d5748e6ca4071bf319570
+  -Dsonar.host.url=http://172.22.0.4:9000 \
+  -Dsonar.login=squ_41c06266ac8346e1f6e7a91495125c66deb7b3f2

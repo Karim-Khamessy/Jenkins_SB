@@ -1,4 +1,4 @@
-export MYSQLDB_ROOT_PASSWORD := sofiene
+export MYSQLDB_ROOT_PASSWORD := karim
 export MYSQLDB_DATABASE := pet_store
 export MYSQLDB_LOCAL_PORT := 3306
 export MYSQLDB_DOCKER_PORT := 3306
