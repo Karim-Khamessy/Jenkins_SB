@@ -6,9 +6,9 @@ pipeline {
     agent any
     environment {
         DEPLOYMENT_SERVER_IP = "172.22.0.3"
-        DEPLOYMENT_SERVER_USER= "admin"
+        DEPLOYMENT_SERVER_USER= "root"
         SONARQUBE_SERVER_IP ="172.22.0.4"
-        SONARQUBE_SERVER_USER="admin"
+        SONARQUBE_SERVER_USER="root"
         JENKINS_SERVER_IP ="172.22.0.2"
         JENKINS_SERVER_USER="karim"
         IMAGE_NAME="SPRING-APP-1.0.0"
